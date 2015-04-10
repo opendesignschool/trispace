@@ -27,7 +27,10 @@ Please read all instructions carefully before starting to cut anything.
 4. **Download files.** Find the right files in the 'cutting files' folder. Study folder structure beforehand.
 5. **Test the connection.**  Make sure you test the connection by cutting one hub and one strut (use individual part files) and trying to connect them. It should snap on and off with little effort, move in one axis 180 degrees freely. 
 6. **Cut the parts.** Be environmentally friendly. trispace is designed to do more with less, embrace the idea and cut minimal amount of parts.
-7. **Assemble model.** Don't apply force, especially to 3mm plywood. Connections snap best when struts is parralel or perpendicular to the hubs. Freshly cut plywood is better to handle with in gloves. 
+7. **Assemble model.** Don't apply force, especially to 3mm plywood. Connections snap best when struts is parralel or perpendicular to the hubs. See Picture below. Freshly cut plywood is better to handle with in gloves. 
+
+
+![Steps](assets/steps.png)
 
 
 ## Materials 
@@ -100,7 +103,7 @@ The rest of [Platonic](http://en.wikipedia.org/wiki/Platonic_solid) and [Archime
 
 #### coming soon
 
-Theoretically with greater number of connections on the hub Kepler–Poinsot polyhedron[Jonson](http://en.wikipedia.org/wiki/Johnson_solid) would be possible with the kit. (planning to test it soon)
+Theoretically with greater number of connections on the hub [Kepler–Poinsot polyhedron](http://en.wikipedia.org/wiki/Kepler%E2%80%93Poinsot_polyhedron) would be possible to build with the trispace kit. (planning to test it soon)
 
 Buckminster Fuller [Geodesic Dome](http://en.wikipedia.org/wiki/Geodesic_dome) is possible to make with more the variation of struts length (not included in the files yet), and hubs angles. Length and and angles can be calculated with this tool [www.acidome.ru](http://acidome.ru/lab/calc/#7/12_Cone_3V_R4.2_beams_150x50)
 

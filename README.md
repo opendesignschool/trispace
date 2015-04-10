@@ -11,8 +11,8 @@ trispace is laser cut maker kit that can be used to create just about anything g
 * [Materials](#materials)
 * [Tolerances](#tolerances)
 * [Cutting files](#lasercut-files)
-* [Products examples](#examples)
-* [Recognition](#recognition)
+* [Shapes](#shapes)
+* [trispace in South Africa](#recognition)
 * [License](#license)
 
 
@@ -22,7 +22,7 @@ Please read all instructions carefully before starting to cut anything.
 
 
 1. **Come up with an idea.** You might be attempting to build a particular object, shape, or just cut the set to play and prototype. Check out shapes section for the inspiration. 
-2. **Do the math.** Try to figure out amount of struts and hubs needed for your idea. For instance cube needs only 8 hubs and 12 struts.  
+2. **Do the math.** Try to figure out amount of struts and hubs needed for your idea. For instance cube needs only 8 hubs and 12 struts. There are some numbers in the shapes section.  
 3. **Choose material.** Read the section about materials, choose the right material for the job, pay attention to tolerances. 
 4. **Download files.** Find the right files in the 'cutting files' folder. Study folder structure beforehand.
 5. **Test the connection.**  Make sure you test the connection by cutting one hub and one strut (use individual part files) and trying to connect them. It should snap on and off with little effort, move in one axis 180 degrees freely. 
@@ -82,6 +82,29 @@ files/
     ├── 3mm_6x_hub_single
     └── 3mm_6x_hubs_300x600_sheet
 ```
+
+## Shapes 
+
+Due to a flexible connection between hub and strut, trispace kit is incredibly versatile. With just one type of hub (6x_hub) and strut you can make the majority of [Platonic](http://en.wikipedia.org/wiki/Platonic_solid) and [Archimedian](http://en.wikipedia.org/wiki/Archimedean_solid) solids. 
+
+All the shapes from the image below (not at the same time of course) are possible from those files laser cutted one of each
+
+```
+3mm_6x_hubs_300x600_sheet
+3mm_struts_300x600_sheet
+```
+
+![shapes](assets/shapes.png)
+
+The rest of [Platonic](http://en.wikipedia.org/wiki/Platonic_solid) and [Archimedian](http://en.wikipedia.org/wiki/Archimedean_solid) along with the most of [Jonson](http://en.wikipedia.org/wiki/Johnson_solid) solids are possible if you start using 4x, 5x hubs (single hubs are included in the files). 
+
+#### coming soon
+
+Theoretically with greater number of connections on the hub Kepler–Poinsot polyhedron[Jonson](http://en.wikipedia.org/wiki/Johnson_solid) would be possible with the kit. (planning to test it soon)
+
+Buckminster Fuller [Geodesic Dome](http://en.wikipedia.org/wiki/Geodesic_dome) is possible to make with more the variation of struts length (not included in the files yet), and hubs angles. Length and and angles can be calculated with this tool [www.acidome.ru](http://acidome.ru/lab/calc/#7/12_Cone_3V_R4.2_beams_150x50)
+
+
 
 
 ## License 

@@ -20,12 +20,12 @@ trispace is laser cut maker kit that can be used to create just about anything g
 Please read all instructions carefully before starting to cut anything. 
 
 
-1. **Come up with an idea.** You might be attempting to build a particular object, shape, or just cut the set to play and prototype. Check out shapes section for the inspiration. 
-2. **Do the math.** Try to figure out amount of struts and hubs needed for your idea. For instance cube needs only 8 hubs and 12 struts. There are some numbers in the shapes section.  
-3. **Choose material.** Read the section about materials, choose the right material for the job, pay attention to tolerances. 
-4. **Download files.** Find the right files in the 'cutting files' folder. Study folder structure beforehand.
+1. **Come up with an idea.** You might be attempting to build a particular object, shape, or just cut the set to play and prototype. Check out [shapes](#shapes) section for the inspiration. 
+2. **Do the math.** Try to figure out amount of struts and hubs needed for your idea. For instance cube needs only 8 hubs and 12 struts.
+3. **Choose material.** Read the section about materials, choose the right material for the job, pay attention to [tolerances](#tolerances). 
+4. **Download files.** Find the right files in the 'files' folder.
 5. **Test the connection.**  Make sure you test the connection by cutting one hub and one strut (use individual part files) and trying to connect them. It should snap on and off with little effort, move in one axis 180 degrees freely. 
-6. **Cut the parts.** Be environmentally friendly. trispace is designed to do more with less, embrace the idea and cut minimal amount of parts.
+6. **Cut the parts.** Be environmentally friendly. trispace is designed to do more with less, embrace the idea and cut minimal amount of parts. You can reuse the same parts in many shapes.
 7. **Assemble model.** Don't apply force, especially to 3mm plywood. Connections snap best when struts is parralel or perpendicular to the hubs. See Picture below. Freshly cut plywood is better to handle with in gloves. 
 
 
@@ -79,6 +79,8 @@ Buckminster Fuller [Geodesic Dome](http://en.wikipedia.org/wiki/Geodesic_dome) i
 ## Files
 
 There are multiple files created and tested for different materials and scales. Below is the overview of the folder structure. Depending on your idea you might need to combine many individual parts on one sheet or you can use the sheets filled with one part for the quickest cutting path with the least waste. 
+
+[Download Files](files)
 
 ```
 files/

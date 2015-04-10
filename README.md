@@ -47,7 +47,7 @@ All parts from the parts supplied has been tested on the Epilog - Mini 24 Laser 
 ##### Plywood thickness 
 
 3mm marked plywood can vary in thickness from 2.7mm up to 3.2mm. Parts are designed with high precision to snap nicely together and allow for only a bit of discrepancy. If you're cutting 3mm plywood choose the sheets between 2.8mm-3.0mm. 
-If you're cutting 6mm plywood parts choose between 5.8mm - 6.0mm.  
+If you're cutting 6mm plywood choose between 5.8mm - 6.0mm.  
 
 
 

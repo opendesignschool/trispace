@@ -51,7 +51,7 @@ If you're cutting 6mm plywood choose between 5.8mm - 6.0mm.
 
 
 
-## Shapes 
+## Shapes & Structures
 
 Due to a flexible connection between hub and strut, trispace kit is incredibly versatile. With just one type of hub and strut you can make the majority of [Platonic](http://en.wikipedia.org/wiki/Platonic_solid) and [Archimedian](http://en.wikipedia.org/wiki/Archimedean_solid) solids. 
 
@@ -90,20 +90,13 @@ files/
 │   │	└── 3mm_6x_hubs_300x600_sheet
 │   ├── struts
 │   │	├── 3mm_strut_single
-│   │	├── 3mm_strut_single_transitional
 │   │	└── 3mm_struts_300x600_sheet
 │   ├── other parts
-│   │	├── 3mm_5x_lamp_holder_single
-│   │	└── 3mm_6x_lamp_holder_single
+│   │	└── lamp_holder_fixings
 ├── 6mm_plywood/
-|  	├── hubs  
-│   │	├── 6mm_4x_hub_single
-│   │	├── 6mm_5x_hub_single
-│   │	├── 6mm_6x_hub_single
+|  	├── hubs 
 │   │	└── 6mm_6x_hubs_300x600_sheet
 │   ├── struts
-│   │	├── 6mm_strut_single
-│   │	├── 6mm_strut_single_transitional
 │   │	└── 6mm_struts_300x600_sheet
 └── 3mm_acrylic/
     ├── 3mm_5x_hub_single

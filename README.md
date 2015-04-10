@@ -10,9 +10,8 @@ trispace is laser cut maker kit that can be used to create just about anything g
 - [Instructions](#instructions)
 * [Materials](#materials)
 * [Tolerances](#tolerances)
-* [Cutting files](#lasercut-files)
 * [Shapes](#shapes)
-* [trispace in South Africa](#recognition)
+* [Files](#files)
 * [License](#license)
 
 
@@ -51,7 +50,30 @@ All parts from the parts supplied has been tested on the Epilog - Mini 24 Laser 
 If you're cutting 6mm plywood parts choose between 5.8mm - 6.0mm.  
 
 
-## Cutting Files
+
+## Shapes 
+
+Due to a flexible connection between hub and strut, trispace kit is incredibly versatile. With just one type of hub (6x_hub) and strut you can make the majority of [Platonic](http://en.wikipedia.org/wiki/Platonic_solid) and [Archimedian](http://en.wikipedia.org/wiki/Archimedean_solid) solids. 
+
+All the shapes from the image below (not at the same time of course) are possible from those files laser cutted one of each
+
+```
+3mm_6x_hubs_300x600_sheet
+3mm_struts_300x600_sheet
+```
+
+![shapes](assets/shapes.png)
+
+The rest of [Platonic](http://en.wikipedia.org/wiki/Platonic_solid) and [Archimedian](http://en.wikipedia.org/wiki/Archimedean_solid) along with the most of [Jonson](http://en.wikipedia.org/wiki/Johnson_solid) solids are possible if you start using 4x, 5x hubs (single hubs are included in the files). 
+
+#### coming soon
+
+Theoretically with greater number of connections on the hub [Kepler–Poinsot polyhedron](http://en.wikipedia.org/wiki/Kepler%E2%80%93Poinsot_polyhedron) would be possible to build with the trispace kit. (planning to test it soon)
+
+Buckminster Fuller [Geodesic Dome](http://en.wikipedia.org/wiki/Geodesic_dome) is possible to make with more the variation of struts length (not included in the files yet), and hubs angles. Length and and angles can be calculated with this tool [www.acidome.ru](http://acidome.ru/lab/calc/#7/12_Cone_3V_R4.2_beams_150x50)
+
+
+## Files
 
 There are multiple files created and tested for different materials and scales. Below is the overview of the folder structure. Depending on your idea you might need to combine many individual parts on one sheet or you can use the sheets filled with one part for the quickest cutting path with the least waste. 
 
@@ -85,29 +107,6 @@ files/
     ├── 3mm_6x_hub_single
     └── 3mm_6x_hubs_300x600_sheet
 ```
-
-## Shapes 
-
-Due to a flexible connection between hub and strut, trispace kit is incredibly versatile. With just one type of hub (6x_hub) and strut you can make the majority of [Platonic](http://en.wikipedia.org/wiki/Platonic_solid) and [Archimedian](http://en.wikipedia.org/wiki/Archimedean_solid) solids. 
-
-All the shapes from the image below (not at the same time of course) are possible from those files laser cutted one of each
-
-```
-3mm_6x_hubs_300x600_sheet
-3mm_struts_300x600_sheet
-```
-
-![shapes](assets/shapes.png)
-
-The rest of [Platonic](http://en.wikipedia.org/wiki/Platonic_solid) and [Archimedian](http://en.wikipedia.org/wiki/Archimedean_solid) along with the most of [Jonson](http://en.wikipedia.org/wiki/Johnson_solid) solids are possible if you start using 4x, 5x hubs (single hubs are included in the files). 
-
-#### coming soon
-
-Theoretically with greater number of connections on the hub [Kepler–Poinsot polyhedron](http://en.wikipedia.org/wiki/Kepler%E2%80%93Poinsot_polyhedron) would be possible to build with the trispace kit. (planning to test it soon)
-
-Buckminster Fuller [Geodesic Dome](http://en.wikipedia.org/wiki/Geodesic_dome) is possible to make with more the variation of struts length (not included in the files yet), and hubs angles. Length and and angles can be calculated with this tool [www.acidome.ru](http://acidome.ru/lab/calc/#7/12_Cone_3V_R4.2_beams_150x50)
-
-
 
 
 ## License 

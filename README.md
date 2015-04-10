@@ -7,13 +7,13 @@ trispace is laser cut maker kit that can be used to create just about anything g
 
 ## Index
 
-* Instructions
-* Materials
-* Tolerances
-* Cutting files
-* Products examples
-* trispace elswhere
-* License
+- [Instructions](#instructions)
+* [Materials](#materials)
+* [Tolerances](#tolerances)
+* [Cutting files](#lasercut-files)
+* [Products examples](#examples)
+* [Recognition](#recognition)
+* [License](#license)
 
 
 ## Instructions

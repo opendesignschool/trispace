@@ -1,6 +1,9 @@
+![trispace lamp](assets/trispace_lamp.jpg)
+
 # trispace v.0.1
 
 trispace is laser cut maker kit that can be used to create just about anything geometric - sculptures, toys, buildings and prototypes. It is open source and modular. 
+
 
 ## Index
 
@@ -24,7 +27,7 @@ Please read all instructions carefully before starting to cut anything.
 4. **Download files.** Find the right files in the 'cutting files' folder. Study folder structure beforehand.
 5. **Test the connection.**  Make sure you test the connection by cutting one hub and one strut (use individual part files) and trying to connect them. It should snap on and off with little effort, move in one axis 180 degrees freely. 
 6. **Cut the parts.** Be environmentally friendly. trispace is designed to do more with less, embrace the idea and cut minimal amount of parts.
-7. **Assemble model.** Don't apply force, especially to 3mm plywood. Connections snap best when struts is parralel or perpendicular to the hubs. Freshly cut plywood is better to handle with light gloves. 
+7. **Assemble model.** Don't apply force, especially to 3mm plywood. Connections snap best when struts is parralel or perpendicular to the hubs. Freshly cut plywood is better to handle with in gloves. 
 
 
 ## Materials 
@@ -74,7 +77,7 @@ files/
 │   │	├── 6mm_strut_single
 │   │	├── 6mm_strut_single_transitional
 │   │	└── 6mm_struts_300x600_sheet
-└── 3mm_acrilic/
+└── 3mm_acrylic/
     ├── 3mm_5x_hub_single
     ├── 3mm_6x_hub_single
     └── 3mm_6x_hubs_300x600_sheet

@@ -53,9 +53,9 @@ If you're cutting 6mm plywood parts choose between 5.8mm - 6.0mm.
 
 ## Shapes 
 
-Due to a flexible connection between hub and strut, trispace kit is incredibly versatile. With just one type of hub (6x_hub) and strut you can make the majority of [Platonic](http://en.wikipedia.org/wiki/Platonic_solid) and [Archimedian](http://en.wikipedia.org/wiki/Archimedean_solid) solids. 
+Due to a flexible connection between hub and strut, trispace kit is incredibly versatile. With just one type of hub and strut you can make the majority of [Platonic](http://en.wikipedia.org/wiki/Platonic_solid) and [Archimedian](http://en.wikipedia.org/wiki/Archimedean_solid) solids. 
 
-All the shapes from the image below (not at the same time of course) are possible from those files laser cutted one of each
+All the shapes from the image below (not at the same time of course) are possible from those files laser cutted once
 
 ```
 3mm_6x_hubs_300x600_sheet
@@ -63,6 +63,9 @@ All the shapes from the image below (not at the same time of course) are possibl
 ```
 
 ![shapes](assets/shapes.png)
+
+**!tip:** Wikipedia tells you how many struts(Edges) and hubs(Vertices) do you need for a particular solid. 
+
 
 The rest of [Platonic](http://en.wikipedia.org/wiki/Platonic_solid) and [Archimedian](http://en.wikipedia.org/wiki/Archimedean_solid) along with the most of [Jonson](http://en.wikipedia.org/wiki/Johnson_solid) solids are possible if you start using 4x, 5x hubs (single hubs are included in the files). 
 

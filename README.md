@@ -80,10 +80,6 @@ Buckminster Fuller [Geodesic Dome](http://en.wikipedia.org/wiki/Geodesic_dome) i
 
 There are multiple files created and tested for different materials and scales. Below is the overview of the folder structure. Depending on your idea you might need to combine many individual parts on one sheet or you can use the sheets filled with one part for the quickest cutting path with the least waste. 
 
-
-
-[download all files in zip](https://github.com/mikeodesigner/trispace/archive/master.zip)
-
 ```
 files/
 ├── 3mm_plywood
@@ -112,8 +108,10 @@ files/
 └── 3mm_acrylic/
     ├── 3mm_5x_hub_single
     ├── 3mm_6x_hub_single
-    └── 3mm_6x_hubs_300x600_sheet
+    └── 3mm_6x_hubs_300x600_sheet    
 ```
+
+[download all files in zip](https://github.com/mikeodesigner/trispace/archive/master.zip)
 
 
 ## License 

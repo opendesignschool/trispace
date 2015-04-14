@@ -51,7 +51,7 @@ If you're cutting 6mm plywood choose between 5.8mm - 6.0mm.
 
 
 
-## Shapes & Structures
+## Shapes
 
 Due to a flexible connection between hub and strut, the trispace kit is incredibly versatile. With just one type of hub and strut you can make the majority of [Platonic](http://en.wikipedia.org/wiki/Platonic_solid) and [Archimedean](http://en.wikipedia.org/wiki/Archimedean_solid) solids. 
 

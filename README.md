@@ -67,7 +67,7 @@ All the shapes from the image below (not at the same time of course) are possibl
 **!tip:** Wikipedia tells you how many struts(Edges) and hubs(Vertices) you need for a particular solid. 
 
 
-The rest of [Platonic](http://en.wikipedia.org/wiki/Platonic_solid) and [Archimedean](http://en.wikipedia.org/wiki/Archimedean_solid) along with most of the [Jonson](http://en.wikipedia.org/wiki/Johnson_solid) solids are possible if you start using 4x, 5x hubs (single hubs are included in the files). 
+The rest of [Platonic](http://en.wikipedia.org/wiki/Platonic_solid) and [Archimedean](http://en.wikipedia.org/wiki/Archimedean_solid) along with most of the [Jonson](http://en.wikipedia.org/wiki/Johnson_solid) solids are possible if you start using 4x, 5x, 8x hubs (single hubs are included in the files). 
 
 #### coming soon
 

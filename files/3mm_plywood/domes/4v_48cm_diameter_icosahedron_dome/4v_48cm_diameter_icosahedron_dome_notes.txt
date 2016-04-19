@@ -1,0 +1,26 @@
+48cm diameter 4V icosahedron dome notes:
+
+Calculations and notations from https://simplydifferently.org/Geodesic_Dome_Notes?page=3
+
+vertices/connectors: 91
+	20 x 4-way
+	6 x 5-way
+	65 x 6-way
+	
+struts: 250
+	A = 4.6763mm x 30,
+	B = 5.6687mm x 60,
+	C = 5.6858mm x 30,
+	D = 5.7662mm x 30,
+	E = 6.1089mm x 70,
+	F = 6.3981mm x 30,
+	
+TriSpace Hubs have equivelant of 7mm “holes”, this is the distance from the center of the hub to the end of the strut once they are mated. So each strut has to be 14mm shorter than calculated strut length if using a dome calculator that doesn't take into account the hubs and only calculates strut length. The above values take into account the TriSpace hubs spacing and are calculated for a 48cm diameter dome.
+
+The cut files include spare parts, you will not use them all. 
+
+Red lines are cut, Blue are etched.
+
+Cheers!
+
+-loren@skivvies.com

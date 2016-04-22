@@ -1,6 +1,6 @@
 ![trispace lamp](assets/trispace_lamp.jpg)
 
-# trispace v.0.2
+# trispace v.0.1
 
 trispace is a laser cut maker kit that can be used to create just about anything geometric - sculptures, toys, buildings and prototypes. It is open source and modular. 
 
@@ -83,13 +83,9 @@ There are multiple files created and tested for different materials and scales. 
 ```
 files/
 ├── 3mm_plywood
-|   └── domes
-│   │   └── 4v_48cm_diameter_icosahedron_dome
-│   │	│   ├── 3mm_ply_hubs_for_4V_48cm_diameter_icosahedron_dome.pdf
-│   │	│   ├── 3mm_ply_struts_for_4V_48cm_diameter_icosahedron_dome.pdf
-│   │	│   ├── 4v-icosahedron-dome-(simplydifferently.org).map.png
-│   │	│   └── 4v_48cm_diameter_icosahedron_dome_notes.txt
-|  	├── hubs  
+|  	├── hubs
+│   │	├── 3mm_3x_single_hub
+│   │	├── 3mm_4x_half_base_single_hub  
 │   │	├── 3mm_4x_hub_single
 │   │	├── 3mm_5x_hub_single
 │   │	├── 3mm_6x_hub_single
@@ -105,9 +101,16 @@ files/
 │   ├── struts
 │   │	└── 6mm_struts_300x600_sheet
 └── 3mm_acrylic/
-    ├── 3mm_5x_hub_single
-    ├── 3mm_6x_hub_single
-    └── 3mm_6x_hubs_300x600_sheet
+│	├── 3mm_5x_hub_single
+│	├── 3mm_6x_hub_single
+│	└── 3mm_6x_hubs_300x600_sheet
+└── complete_models
+		└── domes
+			└── 4v_48cm_diameter_icosahedron_dome
+				├── 3mm_ply_hubs_for_4V_48cm_diameter_icosahedron_dome.pdf
+				├── 3mm_ply_struts_for_4V_48cm_diameter_icosahedron_dome.pdf
+				├── 4v-icosahedron-dome-(simplydifferently.org).map.png
+				└── 4v_48cm_diameter_icosahedron_dome_notes.txt
     
 ```
 

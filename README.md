@@ -69,11 +69,11 @@ All the shapes from the image below (not at the same time of course) are possibl
 
 The rest of [Platonic](http://en.wikipedia.org/wiki/Platonic_solid) and [Archimedean](http://en.wikipedia.org/wiki/Archimedean_solid) along with most of the [Jonson](http://en.wikipedia.org/wiki/Johnson_solid) solids are possible if you start using 4x, 5x, 8x hubs (single hubs are included in the files). 
 
+A Buckminster Fuller [Geodesic Dome](http://en.wikipedia.org/wiki/Geodesic_dome) is included to demonstrate the possibilities with varied strut lengths. Lengths were calculated with the 4V Icosahedron Dome Calculator on this page [www.simplydifferently.org] (https://simplydifferently.org/Geodesic_Dome_Notes?page=3), or you can use  [www.acidome.ru](http://acidome.ru/lab/calc/#7/12_Cone_3V_R4.2_beams_150x50) for a more graphical approach. Be sure and read the notes included with the dome files.
+
 #### coming soon
 
 Theoretically, with greater number of connections on the hub, a [Kepler–Poinsot polyhedron](http://en.wikipedia.org/wiki/Kepler%E2%80%93Poinsot_polyhedron) would be possible to build with the trispace kit. (planning to test it soon)
-
-A Buckminster Fuller [Geodesic Dome](http://en.wikipedia.org/wiki/Geodesic_dome) is possible to make with more variation of the strut lengths (not included in the files yet), and hubs angles. Length and angles can be calculated with this tool [www.acidome.ru](http://acidome.ru/lab/calc/#7/12_Cone_3V_R4.2_beams_150x50)
 
 
 ## Files
@@ -83,7 +83,9 @@ There are multiple files created and tested for different materials and scales. 
 ```
 files/
 ├── 3mm_plywood
-|  	├── hubs  
+|  	├── hubs
+│   │	├── 3mm_3x_single_hub
+│   │	├── 3mm_4x_half_base_single_hub  
 │   │	├── 3mm_4x_hub_single
 │   │	├── 3mm_5x_hub_single
 │   │	├── 3mm_6x_hub_single
@@ -99,9 +101,17 @@ files/
 │   ├── struts
 │   │	└── 6mm_struts_300x600_sheet
 └── 3mm_acrylic/
-    ├── 3mm_5x_hub_single
-    ├── 3mm_6x_hub_single
-    └── 3mm_6x_hubs_300x600_sheet    
+│	├── 3mm_5x_hub_single
+│	├── 3mm_6x_hub_single
+│	└── 3mm_6x_hubs_300x600_sheet
+└── complete_models
+		└── domes
+			└── 4v_48cm_diameter_icosahedron_dome
+				├── 3mm_ply_hubs_for_4V_48cm_diameter_icosahedron_dome.pdf
+				├── 3mm_ply_struts_for_4V_48cm_diameter_icosahedron_dome.pdf
+				├── 4v-icosahedron-dome-(simplydifferently.org).map.png
+				└── 4v_48cm_diameter_icosahedron_dome_notes.txt
+    
 ```
 
 [download all files in zip](https://github.com/mikeodesigner/trispace/archive/master.zip)
